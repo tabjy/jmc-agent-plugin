@@ -49,6 +49,7 @@
 	<modules>
 		<module>org.openjdk.jmc.console.ext.agent</module>
 		<module>org.openjdk.jmc.feature.console.ext.agent</module>
+		<module>update-site</module>
 	</modules>
 
 	<properties>
